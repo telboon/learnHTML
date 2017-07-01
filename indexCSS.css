@@ -1,0 +1,36 @@
+body{
+	color:red;
+	background-color: grey;
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Big_Bear_Valley%2C_California.jpg/1200px-Big_Bear_Valley%2C_California.jpg");
+	background-repeat: repeat-x;
+	background-position: center;
+}
+h1{
+	color:green;
+	margin-left:50px;
+}
+
+p{
+	padding-top:50px;
+	padding-right:10px;
+	padding-bottom:50px;
+	padding-left:20px;
+}
+
+.ice-cream{
+	color:black;
+	background-color:grey;
+}
+
+#special-ic{
+	border-style: solid;
+}
+
+th{
+	background-color:black;
+	color:white;
+	font-size:20px;
+}
+
+td{
+	background-color:white;
